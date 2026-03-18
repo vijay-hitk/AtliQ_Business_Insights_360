@@ -3,6 +3,8 @@
 
 𝐋𝐢𝐯𝐞 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝: [Visit live Dashboard ](https://app.powerbi.com/view?r=eyJrIjoiODNiZWZmMDQtMDhkOS00ZWZhLTgxM2YtMmQxN2Q4Y2RlYzhlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=50cd9510a2b403332289)
 
+<iframe title="Business_Insight_360" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiODNiZWZmMDQtMDhkOS00ZWZhLTgxM2YtMmQxN2Q4Y2RlYzhlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9" frameborder="0" allowFullScreen="true"></iframe>
+
 🌟𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐇𝐢𝐠𝐡𝐥𝐢𝐠𝐡𝐭𝐬🌟
 
 🏠𝐇𝐨𝐦𝐞 𝐏𝐚𝐠𝐞: The central hub is designed for effortless navigation, offering swift entry to crucial information.
@@ -19,47 +21,78 @@
 
 **𝐓𝐞𝐜𝐡 𝐬𝐭𝐚𝐜𝐤s used**
 
-➡️ SQL
-➡️ PowerBi Desktop
-➡️ Excel
-➡️ DAX language
-➡️ DAX studio (for optimizing the report)
+➡️ SQL  
+
+➡️ PowerBi Desktop  
+
+➡️ Excel  
+
+➡️ DAX language  
+
+➡️ DAX studio (for optimizing the report)  
+
 ➡️ Project charter file
 
 𝐋𝐞𝐚𝐫𝐧𝐞𝐝 𝐏𝐨𝐰𝐞𝐫𝐁𝐈 𝐭𝐞𝐜𝐡𝐧𝐢𝐪𝐮𝐞𝐬📊💡
 
-➡️ Creating calculated columns.
-➡️ Creating measures using the DAX language.
-➡️ Data modeling.
-➡️ Using bookmarks to switch between two visuals.
-➡️ Page navigation with buttons.
-➡️ Using the divide function to prevent zero division errors.
-➡️ Creating a date table using the M language.
-➡️ Dynamic titles based on the applied filters.
-➡️ Using KPI indicators.
-➡️ Conditional formatting of the values in visuals using icons or background colour.
-➡️ Data validation techniques.
-➡️ PowerBi services.
-➡️ Publishing reports to PowerBI services.
-➡️ Setting up a personal gateway to set up the auto-refresh of data.
+➡️ Creating calculated columns.  
+
+➡️ Creating measures using the DAX language.  
+
+➡️ Data modeling.  
+
+➡️ Using bookmarks to switch between two visuals.  
+
+➡️ Page navigation with buttons.  
+
+➡️ Using the divide function to prevent zero division errors.  
+
+➡️ Creating a date table using the M language.  
+
+➡️ Dynamic titles based on the applied filters.  
+
+➡️ Using KPI indicators.  
+
+➡️ Conditional formatting of the values in visuals using icons or background colour.  
+
+➡️ Data validation techniques.  
+
+➡️ PowerBi services.  
+
+➡️ Publishing reports to PowerBI services.  
+
+➡️ Setting up a personal gateway to set up the auto-refresh of data.  
+
 ➡️ Collaboration, workspace, and access permissions in PowerBi services.
 
 𝐁𝐮𝐬𝐢𝐧𝐞𝐬𝐬-𝐫𝐞𝐥𝐚𝐭𝐞𝐝 𝐭𝐞𝐫𝐦𝐬💼
 
-➡️ Gross price
-➡️ Pre-invoice deductions
-➡️ Post-Invoice deductions
-➡️ Net Invoice sale
-➡️ Gross Margin
-➡️ Net sales
-➡️ Net profit
-➡️ COGS: cost of goods sold
-➡️ YTD: Year to Date
+➡️ Gross price  
+
+➡️ Pre-invoice deductions  
+
+➡️ Post-Invoice deductions  
+
+➡️ Net Invoice sale  
+
+➡️ Gross Margin  
+
+➡️ Net sales  
+
+➡️ Net profit  
+
+➡️ COGS: cost of goods sold  
+
+➡️ YTD: Year to Date  
+
 ➡️ YTG: Year to Go
 
 🛠️𝐓𝐨𝐨𝐥𝐬 𝐔𝐬𝐞𝐝:
 
-𝐏𝐨𝐰𝐞𝐫 𝐁𝐈📊
-𝐄𝐱𝐜𝐞𝐥📈
-𝐌𝐲𝐒𝐐𝐋🗄️
+𝐏𝐨𝐰𝐞𝐫 𝐁𝐈📊  
+
+𝐄𝐱𝐜𝐞𝐥📈  
+
+𝐌𝐲𝐒𝐐𝐋🗄️  
+
 𝐃𝐀𝐗 𝐒𝐭𝐮𝐝𝐢𝐨🎬
